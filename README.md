@@ -21,4 +21,4 @@ Submitting the form creates the repository.
 - View repository shows all the repositories under the user account, with buttons to show raw repository data as json, delete repository and the owner of the repository.
 - Redux is used to persist history in local storage of the browser that can be replaced with Json-server or any other No-SQL DB
 
-Features can be requested at: pooja.prasad66@gmail.com
+It's a work in progress, features can be requested at: pooja.prasad66@gmail.com
